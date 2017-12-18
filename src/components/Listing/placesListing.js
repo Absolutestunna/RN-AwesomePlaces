@@ -16,7 +16,7 @@ const listItems = ( { placesList, onItemDeleted, onItemSelected } ) => {
               placeImage={info.item.img}
               />
           )}
-          />
+        />
     )
 }
 

@@ -37,7 +37,8 @@ class App extends React.Component {
       onDeselectedPlace,
       onDeletePlace,
       onItemDeleted,
-      onItemSelected } = this.props;
+      onItemSelected,
+      onSelectedPlace } = this.props;
     return (
       <View style={styles.container}>
         <PlaceDetail
