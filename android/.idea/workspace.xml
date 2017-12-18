@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1ed65a1-fba6-4296-aa73-a4112b3c5b07" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTActionSheet.build/Debug-iphonesimulator/RCTActionSheet.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTAnimation.build/Debug-iphonesimulator/RCTAnimation.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTBlob.build/Debug-iphonesimulator/RCTBlob.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTGeolocation.build/Debug-iphonesimulator/RCTGeolocation.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTImage.build/Debug-iphonesimulator/RCTImage.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTLinking.build/Debug-iphonesimulator/RCTLinking.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTNetwork.build/Debug-iphonesimulator/RCTNetwork.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTSettings.build/Debug-iphonesimulator/RCTSettings.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTText.build/Debug-iphonesimulator/RCTText.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTVibration.build/Debug-iphonesimulator/RCTVibration.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/RCTWebSocket.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/fishhook.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/RCTWebSocket.build/Debug-iphonesimulator/fishhook.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/React.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/cxxreact.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/cxxreact.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/double-conversion.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/double-conversion.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/jschelpers.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/jschelpers.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/privatedata.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/privatedata.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/third-party.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/third-party.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/third-party.build/third-party.hmap" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/third-party.build/third-party.hmap" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/yoga.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/React.build/Debug-iphonesimulator/yoga.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlaces.build/Objects-normal/x86_64/ReactNativeAwesomePlaces_dependency_info.dat" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlaces.build/Objects-normal/x86_64/ReactNativeAwesomePlaces_dependency_info.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlaces.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlaces.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlacesTests.build/Objects-normal/x86_64/ReactNativeAwesomePlacesTests_dependency_info.dat" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlacesTests.build/Objects-normal/x86_64/ReactNativeAwesomePlacesTests_dependency_info.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlacesTests.build/dgph" afterPath="$PROJECT_DIR$/../ios/build/Build/Intermediates/ReactNativeAwesomePlaces.build/Debug-iphonesimulator/ReactNativeAwesomePlacesTests.build/dgph" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app.dSYM/Contents/Resources/DWARF/ReactNativeAwesomePlaces" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app.dSYM/Contents/Resources/DWARF/ReactNativeAwesomePlaces" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/Info.plist" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/Info.plist" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/PlugIns/ReactNativeAwesomePlacesTests.xctest/ReactNativeAwesomePlacesTests" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/PlugIns/ReactNativeAwesomePlacesTests.xctest/ReactNativeAwesomePlacesTests" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/ReactNativeAwesomePlaces" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/ReactNativeAwesomePlaces" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libReact.a" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libReact.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libcxxreact.a" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libcxxreact.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libjschelpers.a" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libjschelpers.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libthird-party.a" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/libthird-party.a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/_CodeSignature/CodeResources" afterPath="$PROJECT_DIR$/../ios/build/Build/Products/Debug-iphonesimulator/ReactNativeAwesomePlaces.app/_CodeSignature/CodeResources" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ios/build/info.plist" afterPath="$PROJECT_DIR$/../ios/build/info.plist" />
-    </list>
+    <list default="true" id="d1ed65a1-fba6-4296-aa73-a4112b3c5b07" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +67,13 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Joshua Abu &lt;joshujah007@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2989,7 +2959,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513630866676" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513631060633" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3089,7 +3059,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513630866676" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1513631060634" />
       </method>
     </configuration>
     <list size="1">
@@ -3125,6 +3095,14 @@
       <option name="presentableId" value="Default" />
       <updated>1513620153438</updated>
     </task>
+    <task id="LOCAL-00001" summary="Icons settings before navigation settings">
+      <created>1513630955381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513630955381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3165,6 +3143,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Icons settings before navigation settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Icons settings before navigation settings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
