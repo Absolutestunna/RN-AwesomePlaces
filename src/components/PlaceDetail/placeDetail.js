@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Modal, View, Image, Text, Button, StyleSheet, TouchableOpacity } from 'react-native';
 
-// import Icon from 'react-native-vector-icons/Ionicons';
+import Icon from 'react-native-vector-icons/Ionicons';
 
 
 const placeModal = ({ selectedPlace, onModalClose, onItemDeleted }) => {
@@ -23,15 +23,12 @@ const placeModal = ({ selectedPlace, onModalClose, onItemDeleted }) => {
         <View style={styles.reactButtonsStyle}>
           <TouchableOpacity onPress={onItemDeleted}>
             <View style={styles.deleteButton}>
-              {/*<Icon size={30} name="ios-trash" color="red"/>*/}
-              <Button title="Delete" onPress={onItemDeleted}/>
-
+              <Icon size={30} name="ios-trash" color="red"/>
             </View>
           </TouchableOpacity>
           <TouchableOpacity onPress={onModalClose}>
             <View style={styles.closeButton}>
-              {/*<Icon size={30} name="ios-close" color="black"/>*/}
-              <Button title="Close" onPress={onModalClose}/>
+              <Icon size={30} name="ios-close" color="black"/>
             </View>
           </TouchableOpacity>
         </View>
