@@ -2,12 +2,16 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import { connect } from 'react-redux';
 
+//custom function
+import { addPlace, deletePlace, selectPlace, deselectPlace } from './src/redux/actions/index';
 
-
+//local components
+import InputContainer from './src/components/InputContainer/inputContainer';
+import PlaceDetail from './src/components/PlaceDetail/placeDetail';
+import ListItems from './src/components/Listing/placesListing';
 
 
 const mapStateToProps = state => {
-  console.log('state', state)
   return {
     placesList: state.places.placesList,
     selectedPlace: state.places.selectedPlace,
@@ -26,13 +30,29 @@ const mapDispatchToProps = dispatch => {
 
 class App extends React.Component {
   render() {
+    const {
+      onAddPlace,
+      placesList,
+      selectedPlace,
+      onDeselectedPlace,
+      onDeletePlace,
+      onItemDeleted,
+      onItemSelected } = this.props;
     return (
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
-
+        <PlaceDetail
+          selectedPlace={selectedPlace}
+          onModalClose={onDeselectedPlace}
+          onItemDeleted={onDeletePlace}
+          />
+          <InputContainer
+            onPlaceInputHandler={(placeName) => onAddPlace(placeName)}
+            />
+        <ListItems
+          placesList = { placesList }
+          onItemDeleted={onDeletePlace}
+          onItemSelected={(selKey) => onSelectedPlace(selKey)}
+          />
       </View>
     );
   }
@@ -43,7 +63,8 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'flex-start',
+    padding: 50
   },
 });
 
