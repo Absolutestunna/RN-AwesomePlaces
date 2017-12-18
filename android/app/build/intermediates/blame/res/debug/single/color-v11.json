@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
