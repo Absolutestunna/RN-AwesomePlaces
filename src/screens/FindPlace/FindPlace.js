@@ -13,13 +13,28 @@ const mapStateToProps = state => {
 
 
 class FindPlaceScreen extends Component {
+  placeSelectedHandler = key => {
 
+    const selPlace = this.props.placesList.find(place => {
+        return place.key === key
+    })
+    console.log('selPlace in FindPlace', selPlace);
+
+    this.props.navigator.push({
+      screen: "awesome-places.PlaceDetailScreen",
+      title: selPlace.name,
+      passProps: {
+        selectedPlace: selPlace
+      }
+    })
+  }
   render(){
     const { placesList } = this.props;
     return (
       <View>
         <PlaceList
           placesList={ placesList}
+          onPlaceSelected={this.placeSelectedHandler}
         />
       </View>
     )

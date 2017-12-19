@@ -22,7 +22,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         placesList: state.placesList.filter(place => {
-          return place.key !== state.selectedPlace.key;
+          return place.key !== action.placeKey;
         })
       }
     default:

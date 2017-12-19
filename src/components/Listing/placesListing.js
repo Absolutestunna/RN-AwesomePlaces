@@ -3,7 +3,8 @@ import { Text, FlatList, StyleSheet } from 'react-native';
 
 import ListItem from '../Listing/placeItem';
 
-const listItems = ( { placesList } ) => {
+const listItems = ( { placesList, onPlaceSelected } ) => {
+
     return (
         <FlatList
           style={styles.placesListStyle}
@@ -11,6 +12,7 @@ const listItems = ( { placesList } ) => {
           renderItem={(info) => (
             <ListItem
               place={info.item.name}
+              onItemPressed={() => onPlaceSelected(info.item.key)}
               placeImage={info.item.img}
               />
           )}

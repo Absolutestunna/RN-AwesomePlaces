@@ -17,7 +17,7 @@ class SharePlaceScreen extends Component {
     place: ""
   }
   placeAddHandler = placeName => {
-    this.setState({place: placeName})
+    this.setState({place: placeName})     //delete later
     this.props.onAddPlace(placeName);
   }
   render(){
