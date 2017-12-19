@@ -1,10 +1,38 @@
 [
     {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/Home/.android/build-cache/f2debf19c1d6832eb537f24a53df8a7558754b2d/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]

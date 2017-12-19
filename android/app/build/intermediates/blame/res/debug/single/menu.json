@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/stub.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/menu/search_item.xml"
+    }
+]

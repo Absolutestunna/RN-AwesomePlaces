@@ -1,39 +1,39 @@
 [
     {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
     },
     {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/anim/design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_popup_exit.xml"
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
         "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_push_up_in.xml"
     },
     {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
     },
     {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_slide_up.xml"
-    },
-    {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_fade_in.xml"
-    },
-    {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_fade_out.xml"
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
@@ -41,26 +41,78 @@
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
         "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_push_up_out.xml"
     },
     {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_slide_out_top.xml"
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
     },
     {
         "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/anim/abc_slide_in_top.xml"
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/res/anim/catalyst_fade_out.xml"
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/res/anim/design_fab_in.xml"
     }
 ]

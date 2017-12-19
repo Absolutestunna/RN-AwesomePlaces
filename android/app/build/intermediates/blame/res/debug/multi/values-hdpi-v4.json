@@ -12,14 +12,14 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "/Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/res/values-hdpi/values-hdpi.xml",
+                    "file": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 286,
-                        "endLine": 8,
+                        "startOffset": 55,
+                        "endLine": 6,
                         "endColumn": 13,
-                        "endOffset": 558
+                        "endOffset": 327
                     }
                 }
             }

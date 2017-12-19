@@ -27,9 +27,8 @@ MERGED from [com.facebook.react:react-native:0.50.3] /Users/Home/.android/build-
 uses-sdk
 ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:9:5-11:41
 MERGED from [ReactNativeAwesomePlaces:react-native-vector-icons:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-vector-icons/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Home/.android/build-cache/c0a79cdf80fc41e19f6a0dee38a6fd6f1ea48980/output/AndroidManifest.xml:20:5-43
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Home/.android/build-cache/2cb29af899247171450c12f08c220813e54e2692/output/AndroidManifest.xml:14:5-16:41
 MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/Home/.android/build-cache/b46bcbaefae6702fda98036fe8e1d42e4071628f/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/Home/.android/build-cache/c57d1c182b0c0166c37ce8534b3e13189e4813a0/output/AndroidManifest.xml:5:5-7:41
@@ -38,6 +37,23 @@ MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/Home/.android/build
 MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/Home/.android/build-cache/db977d54810ab3c0683e3274760bb52b00706be0/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/Home/.android/build-cache/a1273d16528eb27574881b745f8adbfcac7cf0f1/output/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Home/.android/build-cache/a5cac557de14b523967dfb3c56f44d414179b835/output/AndroidManifest.xml:2:3-70
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Home/.android/build-cache/f2debf19c1d6832eb537f24a53df8a7558754b2d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Home/.android/build-cache/9d2ce12d664cf47f68250b81e7c93dbc8fa3e596/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/Home/.android/build-cache/f23df952c426fb54f43a014880028c5b8a2ef8fa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Home/.android/build-cache/407c00a04b9b9c687528b5657a439fed7c688a35/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Home/.android/build-cache/b486b008217629ad2823cc34b2a6a04198fced74/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Home/.android/build-cache/a493301823d22de88ab65332e8d1945d03108532/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Home/.android/build-cache/2b6c933d1f469220c2a93ea2afa2d55e35fc5492/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Home/.android/build-cache/eb2bd791d943ca261592ddd54efc908c0680f312/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Home/.android/build-cache/df6c693915c750d569ba1f0def566ba2655f6ad1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Home/.android/build-cache/4cde227d0408ada8e58d7256bf1f06c8c20a0ddb/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Home/.android/build-cache/afef6e7a1f38d25eb71e0ef1385cfde993914db1/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Home/.android/build-cache/16aac6beb4ad5423a4a8c609182da27322607f18/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Home/.android/build-cache/12196203076be93b9b07d22794aa40afe738e4a6/output/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:11:9-38
 		INJECTED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml
@@ -48,11 +64,24 @@ MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Home/.android/build-ca
 		INJECTED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml
 application
 ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:13:5-30:19
+MERGED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:11:5-18:19
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/Home/.android/build-cache/30f83434b38542813dfc0760536e820d17f45f02/output/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/Home/.android/build-cache/496020e29f2cd2f62d8580d5c10702f99d08f97d/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/Home/.android/build-cache/c0a79cdf80fc41e19f6a0dee38a6fd6f1ea48980/output/AndroidManifest.xml:22:5-20
 MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/Home/.android/build-cache/a5cac557de14b523967dfb3c56f44d414179b835/output/AndroidManifest.xml:3:3-17
 MERGED from [org.webkit:android-jsc:r174650] /Users/Home/.android/build-cache/06231d8b4e9d40cd7f1e940d66549a5372e3564f/output/AndroidManifest.xml:2:3-17
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/Home/.android/build-cache/f2debf19c1d6832eb537f24a53df8a7558754b2d/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Home/.android/build-cache/f23df952c426fb54f43a014880028c5b8a2ef8fa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/Home/.android/build-cache/407c00a04b9b9c687528b5657a439fed7c688a35/output/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Home/.android/build-cache/b486b008217629ad2823cc34b2a6a04198fced74/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Home/.android/build-cache/a493301823d22de88ab65332e8d1945d03108532/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Home/.android/build-cache/2b6c933d1f469220c2a93ea2afa2d55e35fc5492/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Home/.android/build-cache/eb2bd791d943ca261592ddd54efc908c0680f312/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Home/.android/build-cache/df6c693915c750d569ba1f0def566ba2655f6ad1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Home/.android/build-cache/4cde227d0408ada8e58d7256bf1f06c8c20a0ddb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Home/.android/build-cache/afef6e7a1f38d25eb71e0ef1385cfde993914db1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Home/.android/build-cache/16aac6beb4ad5423a4a8c609182da27322607f18/output/AndroidManifest.xml:29:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/Home/.android/build-cache/12196203076be93b9b07d22794aa40afe738e4a6/output/AndroidManifest.xml:12:5-20
 	android:label
 		ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:16:7-39
 	android:allowBackup
@@ -85,11 +114,37 @@ ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/sr
 		ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:26:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
 ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:29:7-84
+MERGED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:29:17-81
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [ReactNativeAwesomePlaces:react-native-navigation:unspecified] /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/AndroidManifest.xml:13:13-84
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 IMPLIED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
 IMPLIED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from /Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Home/.android/build-cache/9d2ce12d664cf47f68250b81e7c93dbc8fa3e596/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Home/.android/build-cache/f23df952c426fb54f43a014880028c5b8a2ef8fa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Home/.android/build-cache/b486b008217629ad2823cc34b2a6a04198fced74/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Home/.android/build-cache/a493301823d22de88ab65332e8d1945d03108532/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Home/.android/build-cache/2b6c933d1f469220c2a93ea2afa2d55e35fc5492/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Home/.android/build-cache/eb2bd791d943ca261592ddd54efc908c0680f312/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Home/.android/build-cache/df6c693915c750d569ba1f0def566ba2655f6ad1/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Home/.android/build-cache/4cde227d0408ada8e58d7256bf1f06c8c20a0ddb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Home/.android/build-cache/afef6e7a1f38d25eb71e0ef1385cfde993914db1/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Home/.android/build-cache/16aac6beb4ad5423a4a8c609182da27322607f18/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/Home/.android/build-cache/dafbcb7cb2e710902422f5e866d339e4efbecb8b/output/AndroidManifest.xml:26:9-47

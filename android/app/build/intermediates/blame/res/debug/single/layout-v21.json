@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/Home/.android/build-cache/f2debf19c1d6832eb537f24a53df8a7558754b2d/output/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/Home/.android/build-cache/f2debf19c1d6832eb537f24a53df8a7558754b2d/output/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Home/.android/build-cache/7936aaa8a1537b82512ae7211f177a1d5427760a/output/res/layout-v21/notification_action.xml"
+    }
+]

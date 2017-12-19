@@ -16,7 +16,7 @@ class InputContainer extends Component {
     if (this.state.placeName.trim() === ""){ return; }
 
     this.props.onPlaceInputHandler(this.state.placeName)
-  }
+  } 
 
   render(){
     const { placeName } = this.state;
