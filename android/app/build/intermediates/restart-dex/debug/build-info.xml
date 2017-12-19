@@ -3,10 +3,10 @@
     abi="x86"
     api-level="27"
     build-mode="FULL"
-    density="560dpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1513718389139"
+    timestamp="1513726680239"
     token="1073715723297361452"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1513718389139"
+        timestamp="1513726680239"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/split-apk/debug/slices/slice_3.apk"

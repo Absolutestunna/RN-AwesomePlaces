@@ -25,9 +25,7 @@ class PlaceModal extends Component {
     this.props.navigator.pop();
   }
   render(){
-    console.log('this.props', this.props);
     const { selectedPlace } = this.props;
-    console.log('selectedPlace', selectedPlace);
     return (
         <View style={styles.containerStyle}>
           <View>
