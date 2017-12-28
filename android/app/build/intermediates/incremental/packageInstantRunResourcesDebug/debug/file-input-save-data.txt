@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 22 16:10:24 EST 2017
+0.baseType=DIRECTORY
+0.base=/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/assets/debug
+0.path=fonts/Ionicons.ttf
+0.set=ASSET
+count=1

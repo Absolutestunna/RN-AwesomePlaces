@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import { ScrollView, View, Text, Button, TextInput, Image, StyleSheet } from 'react-native';
 import { connect } from 'react-redux';
 
 //local components
-import PlaceInput from '../../components/InputContainer/inputContainer';
 import { addPlace } from '../../redux/actions/index';
+import PlaceInput from '../../components/InputContainer/inputContainer';
+import MainText from '../../components/UI/MainText/MainText';
+import HeadingText from '../../components/UI/HeadingText/HeadingText';
+import PickImage from '../../components/PickImage/PickImage';
+import LocateMap from '../../components/LocateMap/LocateMap';
+
+
 
 const mapDispatchToProps = dispatch => {
   return {
@@ -13,17 +19,16 @@ const mapDispatchToProps = dispatch => {
 }
 
 class SharePlaceScreen extends Component {
-  state = {
-    place: ""
-  }
-
   constructor(props) {
     super(props);
     this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent);
   }
+  state = {
+    placeName: '',
+  }
+
 
   onNavigatorEvent = (event) => {
-    console.log('event', event);
     if (event.type === "NavBarButtonPress"){
       if (event.id === "sideDrawerToggle"){
         this.props.navigator.toggleDrawer({
@@ -33,19 +38,51 @@ class SharePlaceScreen extends Component {
     }
   }
 
-  placeAddHandler = placeName => {
-    this.setState({place: placeName})     //delete later
-    this.props.onAddPlace(placeName);
+
+
+  placeNameHandler = val => {
+    this.setState({ placeName: val  })
+  }
+
+  placeAddHandler = () => {
+    if (this.state.placeName.trim() !== "") {
+      this.props.onAddPlace(this.state.placeName)
+      this.setState({
+        placeName: ""
+      })
+    };
   }
   render(){
-    let placeStatus = ( this.state.place === "") ? "" : (`${this.state.place} has been added.`)
     return (
-      <View>
-        <PlaceInput onPlaceInputHandler={this.placeAddHandler}/>
-        <Text>{placeStatus}</Text>
-      </View>
+      <ScrollView>
+        <View style={style.container}>
+          <MainText>
+            <HeadingText>Share a place with us!</HeadingText>
+          </MainText>
+          <PickImage />
+          <LocateMap />
+
+          <PlaceInput
+            placeName={this.state.placeName}
+            onChangeText={this.placeNameHandler}
+            />
+          <View style={style.imageButton}>
+            <Button
+              title="Share the place!"
+              onPress={this.placeAddHandler}
+            />
+          </View>
+        </View>
+      </ScrollView>
     )
   }
 }
+
+const style = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: "center"
+  }
+})
 
 export default connect(null, mapDispatchToProps)(SharePlaceScreen);

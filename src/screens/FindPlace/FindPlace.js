@@ -19,7 +19,6 @@ class FindPlaceScreen extends Component {
   }
 
   onNavigatorEvent = (event) => {
-    console.log('event', event);
     if (event.type === "NavBarButtonPress"){
       if (event.id === "sideDrawerToggle"){
         this.props.navigator.toggleDrawer({
@@ -28,13 +27,15 @@ class FindPlaceScreen extends Component {
       }
     }
   }
-  
+
   placeSelectedHandler = key => {
 
     const selPlace = this.props.placesList.find(place => {
         return place.key === key
-    })
-    console.log('selPlace in FindPlace', selPlace);
+    });
+
+    console.log('selPlace', selPlace);
+
 
     this.props.navigator.push({
       screen: "awesome-places.PlaceDetailScreen",
@@ -44,6 +45,7 @@ class FindPlaceScreen extends Component {
       }
     })
   }
+
   render(){
     const { placesList } = this.props;
     return (

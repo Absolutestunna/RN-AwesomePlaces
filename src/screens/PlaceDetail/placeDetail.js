@@ -29,7 +29,7 @@ class PlaceModal extends Component {
     return (
         <View style={styles.containerStyle}>
           <View>
-            <Image source={ selectedPlace.img } style={ styles.containerStyle} />
+            <Image source={ selectedPlace.img } style={ styles.modalContentStyling} />
             <Text style={styles.placeName}>{ selectedPlace.name }</Text>
           </View>
           <View style={styles.reactButtonsStyle}>
@@ -61,7 +61,7 @@ const styles = StyleSheet.create({
     marginBottom: 20
   },
   deleteButton: {
-    marginRight: 35
+    marginRight: 30
   },
   reactButtonsStyle: {
     flexDirection: "row",
