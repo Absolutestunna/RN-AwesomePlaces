@@ -1,4 +1,4 @@
-#Fri Dec 22 16:11:41 EST 2017
-base.0=/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/transforms/dexMerger/debug/1
+#Thu Dec 28 17:26:27 EST 2017
+base.0=/Users/Home/Personal_Projects/ReactNativeAwesomePlaces/android/app/build/intermediates/transforms/dexMerger/debug/20
 path.0=classes.dex
 renamed.0=classes.dex

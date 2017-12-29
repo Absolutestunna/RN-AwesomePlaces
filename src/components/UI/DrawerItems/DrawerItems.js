@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#eee",
     flexDirection: "row",
     alignItems: "center",
-    marginBottom: 10,
+    marginBottom: 10
   },
   drawerIconItem: {
     marginRight: 10,
