@@ -28,14 +28,10 @@ class AuthScreen extends Component {
     })
   }
 
-
   componentWillUnmount(){
     //prevent memory leak
     Dimensions.removeEventListener("change", this.updateStylesFunc)
   }
-
-
-
 
   loginHandler = () => {
     startMainTabs();
@@ -56,14 +52,14 @@ class AuthScreen extends Component {
           <ButtonWithBackground color="#29aa4f" onPress={() => alert("message from the future")}>Switch to Login</ButtonWithBackground>
           <View style={style.inputContainer}>
             <DefaultInput placeholder="Your Email Address" style={style.input}/>
-              <View style={this.state.viewMode === "portrait" ? style.portraitPasswordContainer : style.landScapePasswordContainer}>
-                <View style={this.state.viewMode === "portrait" ? style.portraitPasswordWrapper : style.landScapePasswordWrapper}>
-                  <DefaultInput placeholder="Password" style={style.input}/>
-                </View>
-                <View style={this.state.viewMode === "portrait" ? style.portraitPasswordWrapper : style.landScapePasswordWrapper}>
-                  <DefaultInput placeholder="Confirm Password" style={style.input}/>
-                </View>
+            <View style={this.state.viewMode === "portrait" ? style.portraitPasswordContainer : style.landScapePasswordContainer}>
+              <View style={this.state.viewMode === "portrait" ? style.portraitPasswordWrapper : style.landScapePasswordWrapper}>
+                <DefaultInput placeholder="Password" style={style.input}/>
               </View>
+              <View style={this.state.viewMode === "portrait" ? style.portraitPasswordWrapper : style.landScapePasswordWrapper}>
+                <DefaultInput placeholder="Confirm Password" style={style.input}/>
+              </View>
+            </View>
           </View>
           <ButtonWithBackground color="#29aa42" onPress={this.loginHandler}>Submit</ButtonWithBackground>
         </View>
